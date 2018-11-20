@@ -5,6 +5,6 @@ puts fizzbuzz(3)
 
 puts "Introduceti un numar!"
 
-n = gets.strip.to_i
-puts n
-fizzbuzz(n)
+asd = gets.strip.to_i
+puts asd
+fizzbuzz(asd)
