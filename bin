@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative './fizzbuzz'
+puts fizzbuzz
 
 puts "Introduceti un numar!"
 
