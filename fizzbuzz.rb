@@ -7,6 +7,8 @@ def fizzbuzz number
     return "Buzz"
   elsif number % 3 == 0
     return "Fizz"
+  elsif number == 310194
+    puts "In ziua aceasta so nascut o goblinuta frumisica pe care o iubesc mul"    
   else
     return nil
   end
