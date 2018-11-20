@@ -13,7 +13,7 @@ def fizzbuzz number
     puts "Fizz"
     return "Fizz"
   else
-    puts "Your number (#{number}) not divisible by either 3 or 5"
+    puts "Your number (#{number}) is not divisible by either 3 or 5"
     return nil
   end
 end
