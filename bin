@@ -5,3 +5,4 @@ require_relative './fizzbuzz'
 puts "Introduceti un numar!"
 
 n = gets.strip.to_i
+fizzbuzz(n)
