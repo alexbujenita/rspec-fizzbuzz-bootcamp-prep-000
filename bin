@@ -2,9 +2,9 @@
 
 require_relative './fizzbuzz'
 # puts fizzbuzz(3)
-# 
+#
 # puts "Introduceti un numar!"
-# 
+#
 # asd = gets.strip.to_i
 # puts asd
-fizzbuzz(3)
+fizzbuzz(310194)
